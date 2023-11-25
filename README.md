@@ -5,7 +5,7 @@
 <p align="center">Meu nome é Guilherme do Carmo Silveira e atualmente estudo Análise e desenvolvimento de sistemas na FATEC, estou no 4° semestre.<br> Este é meu perfil e aqui esta alguns do meus aprendizados, espero que goste 🎮 </p>&nbsp;
 
 <a href="https://github.com/GuilhermeDoCarmoSilveira/GuilhermeDoCarmoSilveira/edit/main/README.md">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDoCarmoSilveira&layout=compact" />
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDoCarmoSilveira&layout=compact" />
 </a>
 
 ## My Skills
