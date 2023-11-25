@@ -4,12 +4,7 @@
 
 <p align="center">Meu nome é Guilherme do Carmo Silveira e atualmente estudo Análise e desenvolvimento de sistemas na FATEC, estou no 4° semestre.<br> Este é meu perfil e aqui esta alguns do meus aprendizados, espero que goste 🎮 </p>&nbsp;
 
-
- 
- &nbsp;
- &nbsp;
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## My Skills
 
@@ -38,8 +33,8 @@
 ## Contacts:
 
 <div> 
-<a href = "mailto:contato.GuilhermeDoCarmoSilveira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:contato.gcsilveira2004a@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-do-carmo-silveira-23a984231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
